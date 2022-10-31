@@ -1,0 +1,8 @@
+ECD305 Machine Learning Bases Autonomous RC Car
+
+Team Lead: Brian Ly
+Technical Lead: Brenden Capria
+Functional Lead: Jason Leo
+Project Engineer: Daniel Frankini
+
+// this is a test for GitHub push and pull
